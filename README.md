@@ -1,3 +1,5 @@
+# Testing Platform
+
 # Angular 2 Starter
 
 [![Build Status](https://travis-ci.org/antonybudianto/angular2-starter.svg?branch=master)](https://travis-ci.org/antonybudianto/angular2-starter)
